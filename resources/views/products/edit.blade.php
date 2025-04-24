@@ -1,1 +1,10 @@
-"<title>Product Editing</title>" 
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Product Editing</title>
+</head>
+<body>
+
+</body>
+</html>
